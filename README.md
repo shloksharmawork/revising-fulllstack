@@ -24,6 +24,21 @@ Each task focuses on a specific concept or combination of concepts, built from s
 
 ---
 
+### ✅ Task 2 — Temperature Conversion
+
+**Concepts:** `DOM Manipulation`, event listeners, mathematical formulas, radio buttons
+
+**Features:**
+- Convert Celsius to Fahrenheit
+- Convert Fahrenheit to Celsius
+- Converts instantly upon clicking "submit"
+
+**Folder:** `task2-temperature-conversion`
+**Files:** `index.html` · `index.js` · `style.css`
+
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer    | Tech                  |
