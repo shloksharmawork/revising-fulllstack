@@ -54,6 +54,21 @@ Each task focuses on a specific concept or combination of concepts, built from s
 
 ---
 
+### ✅ Task 4 — Random Password Generator
+
+**Concepts:** `DOM Manipulation`, loops, string manipulation, `Math.random`
+
+**Features:**
+- Generate an 8-character long password
+- Includes uppercase letters, lowercase letters, numbers, and symbols
+- Copies generated password directly to the paragraph on button click
+
+**Folder:** `ramndompasswordgen`
+**Files:** `index.html` · `index.js` · `style.css`
+
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer    | Tech                  |
