@@ -39,6 +39,21 @@ Each task focuses on a specific concept or combination of concepts, built from s
 
 ---
 
+### ✅ Task 3 — Dice Roller
+
+**Concepts:** `DOM Manipulation`, Math constant, arrays, conditional logic
+
+**Features:**
+- Roll a dice between 1 and 6
+- Display dice result textually
+- Display dice face visually using an image
+
+**Folder:** `images` (Contains both the project files and assets)
+**Files:** `index.html` · `index.js` · `style.css` · `[1-6].png` · `dice-target.png`
+
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer    | Tech                  |
