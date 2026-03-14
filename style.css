@@ -1,58 +1,49 @@
-body {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: #1a1a2e;
-    color: #eee;
+#container {
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    font-size: 2em;
-    padding-top: 80px;
-}
 
-#mylabel1 {
-    font-size: 1em;
+    font-size: 2rem;
     font-weight: bold;
-    letter-spacing: 0.05em;
+
 }
 
-#myid1 {
-    font-size: 0.7em;
-    padding: 10px 16px;
-    border: 2px solid #7c3aed;
-    border-radius: 10px;
-    background: rgba(255, 255, 255, 0.07);
-    color: #fff;
-    outline: none;
-    text-align: center;
-    transition: border-color 0.3s;
-}
-
-#myid1:focus {
-    border-color: #a78bfa;
-}
-
-#mysubmit1 {
-    font-size: 0.7em;
-    margin: 10px;
-    padding: 8px 28px;
+button {
+    font-size: 1rem;
+    padding: 10px 15px;
+    border-radius: 5px;
     border: none;
-    border-radius: 50px;
-    color: white;
-    background-color: rgb(25, 183, 204);
     cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.15s;
-}
-
-#mysubmit1:hover {
-    background-color: rgb(255, 0, 0);
+    background-color: #4CAF50;
     color: white;
-    transform: translateY(-2px);
+    font-weight: bold;
+    transition: background-color 0.3s ease;
 }
 
-#myparaid1 {
-    display: inline-block;
-    margin-top: 20px;
-    padding: 12px 30px;
-    border-radius: 12px;
-    font-size: 0.8em;
-    background-color: rgba(255, 255, 255, 0.06);
-    transition: background-color 0.4s ease;
+button:hover {
+    background-color: #2c1cd8;
+}
+
+input {
+    font-size: 1rem;
+    text-align: center;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: #f1f4f1;
+    color: rgb(3, 3, 3);
+    font-weight: bold;
+
+
+
+}
+
+
+label {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#diceimg img {
+    width: 80px;
 }
