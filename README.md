@@ -69,6 +69,23 @@ Each task focuses on a specific concept or combination of concepts, built from s
 
 ---
 
+### ✅ Task 5 — Stopwatch
+
+**Concepts:** `DOM Manipulation`, setInterval, clearInterval, Math.floor
+
+**Features:**
+- Tracks total time elapsed in seconds
+- Displays time dynamically in HH : MM : SS format
+- Start button logic to spin up `setInterval`
+- Stop button logic to execute `clearInterval`
+- Reset button logic to reset seconds to 0 and clear timer
+
+**Folder:** `stopwatch`
+**Files:** `index.html` · `index.js` · `style.css`
+
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer    | Tech                  |
